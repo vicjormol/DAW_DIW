@@ -1,5 +1,5 @@
-# DAW-Diseño de Interfaces
-Temario Diseño de Interfaces
+# DAW-Diseño de Interfaces Web
+Temario Diseño de Interfaces Web
 
 
 ## Enlaces 
