@@ -1,5 +1,5 @@
 # DAW-DisenyoInterfaces
-Temario Disenyo
+Temario Diseño de Interfaces
 
 
 ## Enlaces 
