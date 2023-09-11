@@ -1,4 +1,4 @@
-# DAW-DisenyoInterfaces
+# DAW-Diseño de Interfaces
 Temario Diseño de Interfaces
 
 
